@@ -1,0 +1,2 @@
+- md文件需要用markdown打开，也可用notepad++
+- 如需要编辑测试，copy代码到本地即可
